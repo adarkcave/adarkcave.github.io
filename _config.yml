@@ -21,8 +21,8 @@
 title: A DARK CAVE
 description: >- # this means to ignore newlines until "baseurl:"
   You just entered a dark cave.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://adarkcave.githubb.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://adarkcave.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
